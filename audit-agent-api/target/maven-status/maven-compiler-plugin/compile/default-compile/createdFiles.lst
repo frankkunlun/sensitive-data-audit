@@ -1,0 +1,13 @@
+com/acme/audit/api/SqlOperation.class
+com/acme/audit/api/ReporterHealth.class
+com/acme/audit/api/AuditEvent.class
+com/acme/audit/api/AgentRuntimeBridge.class
+com/acme/audit/api/UserContextResolver.class
+com/acme/audit/api/SensitiveCatalog.class
+com/acme/audit/api/AuditEventReporter.class
+com/acme/audit/api/AgentConfiguration.class
+com/acme/audit/api/SensitiveColumnMetadata.class
+com/acme/audit/api/UserContext.class
+com/acme/audit/api/SqlDialectParser.class
+com/acme/audit/api/ParsedSql.class
+com/acme/audit/api/AuditInstrumentationPlugin.class

@@ -1,0 +1,20 @@
+version: 1
+columns:
+  - datasource-id: default
+    database: auditdemo
+    schema: public
+    table: customer
+    column: id_no
+    category: 身份证件信息
+    level: L4
+    masking-rule: DROP_VALUE
+    enabled: true
+  - datasource-id: default
+    database: auditdemo
+    schema: public
+    table: customer
+    column: mobile
+    category: 联系方式
+    level: L3
+    masking-rule: DROP_VALUE
+    enabled: true

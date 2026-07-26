@@ -1,0 +1,20 @@
+agent:
+  enabled: true
+  application-id: audit-demo
+  environment: DEV
+  agent-id: audit-demo-local
+  fail-open: true
+plugins:
+  servlet: true
+  jdbc: true
+jdbc:
+  dialect: MYSQL
+  max-sql-length: 4096
+  max-events-per-request: 100
+sensitive-catalog:
+  file: sensitive-catalog.yaml
+reporter:
+  file: ../logs/sensitive-audit.jsonl
+  batch-size: 100
+  linger-ms: 200
+  max-queue-size: 10000

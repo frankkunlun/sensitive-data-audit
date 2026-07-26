@@ -1,0 +1,6 @@
+com/acme/audit/demo/SecurityConfiguration.class
+com/acme/audit/demo/DemoApplication.class
+com/acme/audit/demo/CustomerController.class
+com/acme/audit/demo/Customer.class
+com/acme/audit/demo/CustomerMapper.class
+com/acme/audit/demo/CustomerController$MobileUpdate.class
