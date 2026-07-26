@@ -1,0 +1,3 @@
+com/acme/audit/plugin/servlet/ServletInstrumentationPlugin$ServletAdvice.class
+com/acme/audit/plugin/servlet/ServletInstrumentationPlugin.class
+com/acme/audit/plugin/servlet/ServletInstrumentationPlugin$1.class

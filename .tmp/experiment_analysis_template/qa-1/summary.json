@@ -1,0 +1,17 @@
+{
+  "a_docx": "/Users/frankxu/.codex/plugins/cache/openai-curated-remote/openai-templates/0.1.0/skills/artifact-template-experiment-analysis/assets/reference.docx",
+  "b_docx": "/Users/frankxu/Documents/Data_Log_Mgmt/output/\u90ae\u4ef6\u5783\u573e\u4fe1\u606f_AI\u8bc6\u522b\u65b9\u6848\u8bd5\u70b9\u6548\u679c\u5206\u6790.docx",
+  "pages_a": 8,
+  "pages_b": 8,
+  "changed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "num_changed_pages": 8
+}

@@ -1,0 +1,8 @@
+com/acme/audit/plugin/jdbc/JdbcInstrumentationPlugin$ParameterAdvice.class
+com/acme/audit/plugin/jdbc/JdbcInstrumentationPlugin.class
+com/acme/audit/plugin/jdbc/JdbcInstrumentationPlugin$ConnectionAdvice.class
+com/acme/audit/plugin/jdbc/JdbcInstrumentationPlugin$ResultSetCloseAdvice.class
+com/acme/audit/plugin/jdbc/JdbcInstrumentationPlugin$StatementExecuteAdvice.class
+com/acme/audit/plugin/jdbc/JdbcInstrumentationPlugin$PreparedExecuteAdvice.class
+com/acme/audit/plugin/jdbc/JdbcInstrumentationPlugin$1.class
+com/acme/audit/plugin/jdbc/JdbcInstrumentationPlugin$ResultSetNextAdvice.class

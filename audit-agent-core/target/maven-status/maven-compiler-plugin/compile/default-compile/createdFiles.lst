@@ -1,0 +1,16 @@
+com/acme/audit/core/AuditContext.class
+com/acme/audit/core/RuntimeAccess.class
+com/acme/audit/core/AuditContextManager$1.class
+com/acme/audit/core/StatementRegistry$StatementState.class
+com/acme/audit/core/StatementRegistry.class
+com/acme/audit/core/AuditContextManager$Snapshot.class
+com/acme/audit/core/AuditRuntime.class
+com/acme/audit/core/EventFactory.class
+com/acme/audit/core/StatementRegistry$PendingResult.class
+com/acme/audit/core/AuditContextManager.class
+com/acme/audit/core/AgentConfig.class
+com/acme/audit/core/AuditRuntime$RequestToken.class
+com/acme/audit/core/AgentConfig$ProcessHandleCompat.class
+com/acme/audit/core/AuditContextManager$Scope.class
+com/acme/audit/core/SafeReflection.class
+com/acme/audit/core/AuditRuntime$1.class

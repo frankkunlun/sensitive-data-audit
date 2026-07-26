@@ -1,0 +1,4 @@
+com/acme/audit/reporter/HttpJsonBatchReporter.class
+com/acme/audit/reporter/AsyncJsonLineFileReporter.class
+com/acme/audit/reporter/AsyncJsonLineFileReporter$1.class
+com/acme/audit/reporter/HttpJsonBatchReporter$1.class
